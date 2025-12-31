@@ -1,0 +1,22 @@
+# CookieGuard Dependencies
+
+# No external dependencies required for core functionality
+# The tool uses only Python standard library modules:
+# - subprocess (process monitoring)
+# - sqlite3 (cookie database reading)
+# - json (data serialization)
+# - threading (background monitoring)
+# - pathlib (path handling)
+# - hashlib (file integrity)
+# - dataclasses (data structures)
+
+# Optional dependencies for enhanced features:
+
+# Rich terminal output (optional)
+# rich>=13.0.0
+
+# Advanced network analysis (optional)
+# scapy>=2.5.0
+
+# Memory forensics (optional, requires admin)
+# volatility3>=2.0.0
